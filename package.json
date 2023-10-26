@@ -1,0 +1,33 @@
+{
+  "name": "ni-web-extension-pack",
+  "displayName": "NI Web Extension Pack",
+  "description": "Popular Visual Studio Code extensions for Web",
+  "version": "0.0.1",
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#f0efe7",
+    "theme": "light"
+  },
+  "engines": {
+    "vscode": "^1.83.1"
+  },
+  "keywords": [
+    "NI",
+    "navinfo",
+    "web",
+    "infra"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "repository": {
+    "url": "https://github.com/NI-Web-Infra-Team/ni-web-extension-pack"
+  },
+  "homepage": "https://github.com/NI-Web-Infra-Team/ni-web-extension-pack",
+  "bugs": {
+    "url": "https://github.com/NI-Web-Infra-Team/ni-web-extension-pack/issues"
+  },
+  "extensionPack": [
+    "streetsidesoftware.code-spell-checker"
+  ]
+}
