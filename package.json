@@ -29,6 +29,7 @@
     "url": "https://github.com/NI-Web-Infra-Team/ni-web-extension-pack/issues"
   },
   "extensionPack": [
-    "streetsidesoftware.code-spell-checker"
+    "streetsidesoftware.code-spell-checker",
+    "dbaeumer.vscode-eslint"
   ]
 }
