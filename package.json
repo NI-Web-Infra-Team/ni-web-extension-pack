@@ -2,7 +2,7 @@
   "name": "ni-web-extension-pack",
   "displayName": "NI Web Extension Pack",
   "description": "Popular Visual Studio Code extensions for Web",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "icon": "icon.png",
   "galleryBanner": {
     "color": "#f0efe7",
