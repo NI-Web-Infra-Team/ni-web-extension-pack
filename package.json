@@ -30,6 +30,20 @@
   },
   "extensionPack": [
     "streetsidesoftware.code-spell-checker",
-    "dbaeumer.vscode-eslint"
+    "dbaeumer.vscode-eslint",
+    "maggie.eslint-rules-zh-plugin",
+    "zh9528.file-size",
+    "wix.vscode-import-cost",
+    "shd101wyy.markdown-preview-enhanced",
+    "christian-kohler.path-intellisense",
+    "esbenp.prettier-vscode",
+    "alefragnani.project-manager",
+    "SimonSiefke.svg-preview",
+    "Vue.vscode-typescript-vue-plugin",
+    "pflannery.vscode-versionlens",
+    "octref.vetur",
+    "antfu.vite",
+    "vscode-icons-team.vscode-icons",
+    "Vue.volar"
   ]
 }
